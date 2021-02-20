@@ -1,2 +1,1 @@
-# caylus-custom-legendary
-Caylus Custom Legendary Edition
+# Caylus Custom Legendary Edition
