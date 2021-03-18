@@ -1,1 +1,3 @@
-# Caylus Custom Legendary Edition
+# Caylus
+
+Una nueva implementación del clásico contemporáneo de los juegos de mesa.
