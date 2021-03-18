@@ -1,3 +1,3 @@
 # Caylus
 
-Una nueva implementación del clásico contemporáneo de los juegos de mesa.
+Aplicación multiplataforma y edición física revisada del clásico contemporáneo de los juegos de mesa.
